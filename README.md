@@ -51,3 +51,20 @@ Publication: The application was previously published via hosting, but it is cur
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://drive.google.com/uc?export=view&id=16uKhjCpDlln0X6dSZtld_n4jPqGyHuTF" width="230">
 </p>
+
+# iWak Store
+iWak Store is a web and mobile application for buying and selling fish and fish-related needs, from food to medicine, providing features for ordering, purchasing, payment, and product, stock, and promo management for store managers.
+
+Developed in collaboration with the Javasolit team, the project involved cooperation between Android Developers using React Native and Backend Developers using the Laravel framework. My role in this project was as the Project Lead, serving as the liaison between the client and the team, conveying client requests and presenting ongoing progress. Additionally, I assisted in developing APIs necessary for the implementation of Android development.
+
+Repository Link Website: https://github.com/FvorY/iwak <br>
+Repository Link Android Mobile: https://github.com/izzudin26/iwak <br>
+All Preview: https://drive.google.com/drive/folders/1alhEk4AsWf0_evopyfzo6ecRQDmbwabX <br>
+Publication: The application was previously published via hosting, but it is currently unavailable. <br>
+<p align="center">
+<img src="https://drive.google.com/uc?export=view&id=nPBoWyBa9CU9M7y1kbGpk0TVPMLQ00Y" width="230">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://drive.google.com/uc?export=view&id=1ao8Zq8J7Z6ZAU5bjh9v_gaWN4WFMp1RQ" width="230">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://drive.google.com/uc?export=view&id=1uMfm90ni4L-5jzUZH8-Dvky14iEGjyHr" width="230">
+</p>
