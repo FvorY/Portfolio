@@ -168,3 +168,18 @@ Publication: Not Available <br>
 <p align="center">
 <img src="https://lh3.googleusercontent.com/d/17rbVT73woutSx7PWy4nuQ7aBEYMOfX83" width="230">
 </p>
+
+# SiReti
+SiReti is my final project at Maarif Hasyim Latif University, featuring property search, property input, direct contact with property sellers, and best property recommendations using the Simple Additive Weighting (SAW) method.
+
+The technologies used include Progressive Web App (PWA), Vue.JS, and PHP Native for the backend.
+
+Repository Link: Not Available <br>
+Publication: Previously published via hosting, but currently unavailable. <br>
+<p align="center">
+<img src="https://lh3.googleusercontent.com/d/183M3Q4vyQlxQ4EtljJxxU4Lp8Pw_xr0I" width="230">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://lh3.googleusercontent.com/d/18dY1oEllsNc2Cr2rn0eXrARAd282_goN" width="230">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://lh3.googleusercontent.com/d/18dY1oEllsNc2Cr2rn0eXrARAd282_goN" width="230">
+</p>
