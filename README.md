@@ -66,7 +66,7 @@ Publication: The application was previously published via hosting, but it is cur
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://lh3.googleusercontent.com/d/1ao8Zq8J7Z6ZAU5bjh9v_gaWN4WFMp1RQ" width="230">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://drive.google.com/uc?export=view&id=1uMfm90ni4L-5jzUZH8-Dvky14iEGjyHr" width="230">
+<img src="https://lh3.googleusercontent.com/d/1uMfm90ni4L-5jzUZH8-Dvky14iEGjyHr" width="230">
 </p>
 
 # MimiShop
