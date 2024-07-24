@@ -8,6 +8,6 @@ Repository Link Android Mobile: https://gitlab.com/javasolit/react-native-csc.gi
 Publication: The application was previously published via hosting, but it is currently unavailable. <br>
 All Preview: https://drive.google.com/drive/folders/1PgP-FajJzC1NQbtsms0083bE2Lr5UGoL <br>
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1nLtt30bEQaVDLEHiD12P-1UTCaoqsbOU" width="230">
-<img src="https://drive.google.com/uc?export=view&id=1PAWbXpZQc20K4G64Y8N5ZtZmhsm3FxHA" width="230">
+<img src="https://drive.google.com/uc?export=view&id=1nLtt30bEQaVDLEHiD12P-1UTCaoqsbOU">
+<img src="https://drive.google.com/uc?export=view&id=1PAWbXpZQc20K4G64Y8N5ZtZmhsm3FxHA">
 </p>
