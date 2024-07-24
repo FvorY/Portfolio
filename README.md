@@ -68,3 +68,19 @@ Publication: The application was previously published via hosting, but it is cur
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://drive.google.com/uc?export=view&id=1uMfm90ni4L-5jzUZH8-Dvky14iEGjyHr" width="230">
 </p>
+
+# MimiShop
+MimiShop is a web application for buying and selling children's toys, featuring ordering, payment, shipping, product content management, and inventory management for store managers.
+
+Developed by me as a Backend Developer using the Laravel framework.
+
+Repository Link: https://github.com/FvorY/Mimishop <br>
+All Preview: https://drive.google.com/drive/folders/1UbY-WvqYosuoymqqYaj5Z8x-4uwf_uzl <br>
+Publication: Previously published via hosting, but currently unavailable. <br>
+<p align="center">
+<img src="https://lh3.googleusercontent.com/d/1sBNQ9ul12LAd4FIFc5266pS3k7By_b7y" width="230">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://lh3.googleusercontent.com/d/1a-7ae9-7v821drwZURIy8G8doVckaiia" width="230">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://lh3.googleusercontent.com/d/159ALllo6gmIQ7dMAXZe0TAeHZcs0LvhY" width="230">
+</p>
