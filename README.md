@@ -40,7 +40,7 @@ Publication: It was previously published via hosting and the Play Store, but it 
 # Sayyur
 Sayyur is an application for buying and selling vegetables, including payment processing and management for vegetable seller partners, covering stock, orders, and delivery.
 
-Developed together with a team, collaborating between backend developers using Golang and frontend developers using Vue.JS, my role in this project was as a Frontend Developer.
+Developed together with a team, collaborating between Backend Developer using Golang and Frontend Developer using Vue.JS, my role in this project was as a Frontend Developer.
 
 Repository Link: https://gitlab.com/dadangbudi1/sayyur-webapp.git <br>
 Publication: The application was previously published via hosting, but it is currently unavailable. <br>
