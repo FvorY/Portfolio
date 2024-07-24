@@ -38,7 +38,7 @@ Publication: It was previously published via hosting and the Play Store, but it 
 </p>
 
 # Sayyur
-Sayyur is an application for buying and selling vegetables, including payment processing and management for vegetable seller partners, covering stock, orders, and delivery.
+Sayyur is a web application with responsive design for both desktop and mobile. It facilitates the buying and selling of vegetables, including payment processing and management for vegetable seller partners, covering everything from stock and orders to delivery.
 
 Developed together with a team, collaborating between Backend Developer using Golang and Frontend Developer using Vue.JS, my role in this project was as a Frontend Developer.
 
