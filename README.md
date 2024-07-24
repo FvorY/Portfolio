@@ -25,3 +25,14 @@ Publication: The application was previously published via hosting, but it is cur
 <p align="center">
 <img src="https://drive.google.com/uc?export=view&id=16KJe5FsZ8jVOXTgtEoBXkbTpesdwQ2_E" width="230">
 </p>
+
+# Smartics
+Smartics is an application designed to assist with school management, featuring capabilities for handling school letter requests, school schedules, school information, teacher schedules, and attendance for both students and teachers.
+
+Developed collaboratively with a team, involving an Android developer using React Native and a backend developer using the Laravel framework, my role in this project was as a Senior Fullstack Developer, providing advice and solutions for technical implementation.
+
+Repository Link: https://github.com/gitapin82y/epic <br>
+Publication: The application was previously published via hosting, but it is currently unavailable. <br>
+<p align="center">
+<img src="https://drive.google.com/uc?export=view&id=16JFc8gv_Yn08ayN2Oh_fXkKRutKm78k4" width="230">
+</p>
