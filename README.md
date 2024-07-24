@@ -62,7 +62,7 @@ Repository Link Android Mobile: https://github.com/izzudin26/iwak <br>
 All Preview: https://drive.google.com/drive/folders/1alhEk4AsWf0_evopyfzo6ecRQDmbwabX <br>
 Publication: The application was previously published via hosting, but it is currently unavailable. <br>
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=nPBoWyBa9CU9M7y1kbGpk0TVPMLQ00Y" width="230">
+<img src="https://drive.google.com/uc?export=view&id=1-nPBoWyBa9CU9M7y1kbGpk0TVPMLQ00Y" width="230">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://drive.google.com/uc?export=view&id=1ao8Zq8J7Z6ZAU5bjh9v_gaWN4WFMp1RQ" width="230">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
