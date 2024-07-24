@@ -84,3 +84,16 @@ Publication: Previously published via hosting, but currently unavailable. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://lh3.googleusercontent.com/d/159ALllo6gmIQ7dMAXZe0TAeHZcs0LvhY" width="230">
 </p>
+
+# Purbengkara
+Purbengkara is a web application, serving as the company profile for a printing business owned by a friend from my university, located in Wiyung, Surabaya, East Java. It provides marketing for their products and pricing information.
+
+Developed by me as a Backend Developer using the Laravel framework.
+
+Repository Link: https://github.com/FvorY/Purbengkara <br>
+Publication: Previously published via hosting, but currently unavailable. <br>
+<p align="center">
+<img src="https://lh3.googleusercontent.com/d/1Z_dgoDv-lZvKAErB5Toh4kTH-aiIbEq_" width="230">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://lh3.googleusercontent.com/d/1_KhE74PECzgYG9mdUqtALenclCxsIKwb" width="230">
+</p>
