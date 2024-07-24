@@ -129,7 +129,9 @@ Publication: Previously published via hosting, but currently unavailable. <br>
 # Brighton
 Brighton is a real estate agency that has adopted technological innovations to improve its operations and services. As part of their strategy, Brighton employs iOS as a key platform to facilitate efficient communication between agents and clients. The accompanying application is designed to enhance the browsing experience for clients, allowing them to explore property listings and connect with agents seamlessly.
 
-In this project, my role primarily focused on optimizing the application's performance to ensure smoother operation. This involved cleaning and refactoring the existing codebase to enhance readability and maintainability. By doing so, the code In this project, my role primarily focused on optimizing application performance to ensure smoother operation. This involved cleaning and refactoring the existing codebase to enhance readability and maintainability. By doing so, the code became easier to understand and document, thereby improving collaboration and long-term maintenance of the application. Additionally, I played a crucial role in enhancing the user interface (UI) of the application to create a more user-friendly and visually appealing experience. This included implementing design refinements to improve usability and aesthetics, ultimately contributing to a better user experience (UX). Furthermore, I updated the technology used in the application, upgrading from Swift 4 to Swift 5. I also played a key role in developing UI tests to ensure the application functioned correctly before being used by end-users. Additionally, I was instrumental in transitioning from storyboard-based UI to XIB, utilizing a coordinator for seamless view transitions. I also managed updates to the App Store. By actively participating in these optimization efforts, I aimed to contribute to Brighton's goal of leveraging technology to modernize its real estate services, providing a better and more seamless experience for both agents and clients.
+In this project, my role involved developing the application from scratch, with a particular focus on optimizing its performance to ensure smoother operation. This included refactoring and cleaning up the existing codebase to enhance readability and maintainability. By doing so, the code became easier to understand and document, which in turn improved collaboration and long-term maintenance of the application. Additionally, I played a key role in enhancing the application's user interface (UI) to create a more user-friendly and visually appealing experience. This involved implementing design refinements to improve usability and achieve a cleaner aesthetic, ultimately contributing to a better user experience (UX).
+
+Moreover, I updated the technology used in the project, upgrading from Swift 4 to Swift 5. I also played a crucial role in creating UI tests to ensure the application functioned correctly before it was used by end-users. Additionally, I was instrumental in updating the technology from storyboard to XIB, utilizing a coordinator to manage view transitions. Furthermore, I managed the app store updates. By actively participating in these optimization efforts, I aimed to contribute to Brighton’s goal of leveraging technology to modernize its real estate services, providing a better and more seamless experience for both agents and clients.
 
 Repository Link: Not Available <br>
 Publication: https://apps.apple.com/id/app/brighton-real-estate/id1203280367 <br>
@@ -139,4 +141,19 @@ Publication: https://apps.apple.com/id/app/brighton-real-estate/id1203280367 <br
 <img src="https://lh3.googleusercontent.com/d/17aL3j_YLHIV-Lhbdzpkel3FoKP8jFxSn" width="230">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://lh3.googleusercontent.com/d/17UTlWCzxC_8Badh_pkFO0hMaK87zLXSM" width="230">
+</p>
+
+# Bright Staff
+Bright Staff is a critical application developed specifically for the employees of Brighton, offering them convenient access to various features that meet the company's operational needs. This comprehensive app simplifies several essential tasks for staff members, including marking attendance, viewing paychecks, checking assigned shifts, and requesting paid leave. By consolidating these functionalities into a single platform, Bright Staff streamlines administrative processes and enables employees to manage their work-related activities efficiently.
+
+This application is specifically designed for Brighton staff, featuring functionalities that facilitate attendance tracking, shift scheduling, employee salary management, leave requests, leave balance monitoring, document updates, and information on employee violations or achievements. With its modern design and user-friendly interface, the application aids in optimizing staff productivity and engagement. It has become an essential tool in supporting Brighton's daily operations and addressing the needs of its dedicated workforce.
+
+Repository Link: Not Available <br>
+Publication: https://apps.apple.com/id/app/bright-staff/id1603758703 <br>
+<p align="center">
+<img src="https://lh3.googleusercontent.com/d/17jGfJ-QTxWmE_UcMgsxxt23qFFyj1NKY" width="230">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://lh3.googleusercontent.com/d/17js-Ie6aAd3ymLKUSH_K0mA0zln344Gr" width="230">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://lh3.googleusercontent.com/d/17mxr6_NBxsXQQNPvPbFCH1RpL8U6eaYD" width="230">
 </p>
