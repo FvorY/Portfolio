@@ -23,5 +23,5 @@ Developed collaboratively with a team, involving an Android developer using Reac
 Repository Link: https://github.com/gitapin82y/epic <br>
 Publication: The application was previously published via hosting, but it is currently unavailable. <br>
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=16KJe5FsZ8jVOXTgtEoBXkbT" width="230">
+<img src="https://drive.google.com/uc?export=view&id=16KJe5FsZ8jVOXTgtEoBXkbTpesdwQ2_E" width="230">
 </p>
