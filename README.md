@@ -125,3 +125,18 @@ Publication: Previously published via hosting, but currently unavailable. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://lh3.googleusercontent.com/d/1rB2arVbMKgiztipzv73vXOpWNZGtsnkX" width="230">
 </p>
+
+# Brighton
+Brighton is a real estate agency that has adopted technological innovations to improve its operations and services. As part of their strategy, Brighton employs iOS as a key platform to facilitate efficient communication between agents and clients. The accompanying application is designed to enhance the browsing experience for clients, allowing them to explore property listings and connect with agents seamlessly.
+
+In this project, my role primarily focused on optimizing the application's performance to ensure smoother operation. This involved cleaning and refactoring the existing codebase to enhance readability and maintainability. By doing so, the code In this project, my role primarily focused on optimizing application performance to ensure smoother operation. This involved cleaning and refactoring the existing codebase to enhance readability and maintainability. By doing so, the code became easier to understand and document, thereby improving collaboration and long-term maintenance of the application. Additionally, I played a crucial role in enhancing the user interface (UI) of the application to create a more user-friendly and visually appealing experience. This included implementing design refinements to improve usability and aesthetics, ultimately contributing to a better user experience (UX). Furthermore, I updated the technology used in the application, upgrading from Swift 4 to Swift 5. I also played a key role in developing UI tests to ensure the application functioned correctly before being used by end-users. Additionally, I was instrumental in transitioning from storyboard-based UI to XIB, utilizing a coordinator for seamless view transitions. I also managed updates to the App Store. By actively participating in these optimization efforts, I aimed to contribute to Brighton's goal of leveraging technology to modernize its real estate services, providing a better and more seamless experience for both agents and clients.
+
+Repository Link: Not Available <br>
+Publication: https://apps.apple.com/id/app/brighton-real-estate/id1203280367 <br>
+<p align="center">
+<img src="https://lh3.googleusercontent.com/d/17gM82PfeTe2F0WltU4cL7-38XYh6xkt8" width="230">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://lh3.googleusercontent.com/d/17aL3j_YLHIV-Lhbdzpkel3FoKP8jFxSn" width="230">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://lh3.googleusercontent.com/d/17UTlWCzxC_8Badh_pkFO0hMaK87zLXSM" width="230">
+</p>
