@@ -1,7 +1,7 @@
 # Cuci Cuci Shoes Care
-Cuci Cuci Shoes Care is an application designed to assist in managing shoe cleaning service stores, located in Sedati, East Java, Sidoarjo. The app features branch office management, employee attendance, order processing with invoice printing, delivery tracking, and employee salary management.
+Cuci Cuci Shoes Care is an application designed to assist in managing shoe cleaning service stores located in Sedati, East Java, Sidoarjo. The app features branch office management, employee attendance, order processing with invoice printing, delivery tracking, and employee salary management.
 
-Developed in collaboration with the Javasolit team, the project involved cooperation between Android Developers using React Native and Backend Developers using the YII framework. My role in this project was as the Project Lead, serving as the liaison between the client and the team, conveying client requests and presenting ongoing progress. Additionally, I assisted in developing APIs necessary for the implementation of Android development.
+Developed in collaboration with the Javasolit team, the project involved cooperation between Android developers using React Native and backend developers using the YII framework. My role in this project was as the project lead, serving as the liaison between the client and the team, conveying client requests, and presenting ongoing progress. Additionally, I assisted in developing APIs necessary for the implementation of Android development.
 
 Repository Link Website: https://gitlab.com/javasolit/yii-csc.git <br>
 Repository Link Android Mobile: https://gitlab.com/javasolit/react-native-csc.git <br>
@@ -18,7 +18,7 @@ Publication: The application was previously published via hosting, but it is cur
 # Epic
 Epic is an application designed to assist with school management, featuring capabilities for handling school letter requests, school schedules, school information, teacher schedules, and attendance for both students and teachers.
 
-Developed collaboratively with a team, involving an Android Developers using React Native and a Backend Developers using the Laravel framework, my role in this project was as a Senior Backend Developer, providing advice and solutions for technical implementation.
+Developed collaboratively with a team involving an Android developer using React Native and a backend developer using the Laravel framework, my role in this project was as a senior backend developer, providing advice and solutions for technical implementation.
 
 Repository Link: https://github.com/gitapin82y/epic <br>
 Publication: It was previously published via hosting and the Play Store, but it is currently unavailable. <br>
@@ -29,7 +29,7 @@ Publication: It was previously published via hosting and the Play Store, but it 
 # Smartics
 Smartics is an application designed to assist with school management, featuring capabilities for handling school letter requests, school schedules, school information, teacher schedules, and attendance for both students and teachers.
 
-Developed collaboratively with a team, involving an Android Developers using React Native and a Backend Developers using the Laravel framework, my role in this project was as a Senior Backend Developer, providing advice and solutions for technical implementation.
+Developed collaboratively with a team involving an Android developer using React Native and a backend developer using the Laravel framework, my role in this project was as a senior backend developer, providing advice and solutions for technical implementation.
 
 Repository Link: https://github.com/FalahJr/smartics <br>
 Publication: It was previously published via hosting and the Play Store, but it is currently unavailable. <br>
@@ -40,7 +40,7 @@ Publication: It was previously published via hosting and the Play Store, but it 
 # Sayyur
 Sayyur is a web application with responsive design for both desktop and mobile. It facilitates the buying and selling of vegetables, including payment processing and management for vegetable seller partners, covering everything from stock and orders to delivery.
 
-Developed together with a team, collaborating between Backend Developer using Golang and Frontend Developer using Vue.JS, my role in this project was as a Frontend Developer.
+Developed together with a team, collaborating between a backend developer using Golang and a frontend developer using Vue.JS, my role in this project was as a frontend developer.
 
 Repository Link: https://gitlab.com/dadangbudi1/sayyur-webapp.git <br>
 Publication: The application was previously published via hosting, but it is currently unavailable. <br>
@@ -55,7 +55,7 @@ Publication: The application was previously published via hosting, but it is cur
 # iWak Store
 iWak Store is a web and mobile application for buying and selling fish and fish-related needs, from food to medicine, providing features for ordering, purchasing, payment, and product, stock, and promo management for store managers.
 
-Developed in collaboration with the Javasolit team, the project involved cooperation between Android Developers using React Native and Backend Developers using the Laravel framework. My role in this project was as the Project Lead, serving as the liaison between the client and the team, conveying client requests and presenting ongoing progress. Additionally, I assisted in developing APIs necessary for the implementation of Android development.
+Developed in collaboration with the Javasolit team, the project involved cooperation between Android developers using React Native and backend developers using the Laravel framework. My role in this project was as the project lead, serving as the liaison between the client and the team, conveying client requests, and presenting ongoing progress. Additionally, I assisted in developing APIs necessary for the implementation of Android development.
 
 Repository Link Website: https://github.com/FvorY/iwak <br>
 Repository Link Android Mobile: https://github.com/izzudin26/iwak <br>
@@ -72,7 +72,7 @@ Publication: The application was previously published via hosting, but it is cur
 # MimiShop
 MimiShop is a web application for buying and selling children's toys, featuring ordering, payment, shipping, product content management, and inventory management for store managers.
 
-Developed by me as a Backend Developer using the Laravel framework.
+Developed by me as a backend developer using the Laravel framework.
 
 Repository Link: https://github.com/FvorY/Mimishop <br>
 All Preview: https://drive.google.com/drive/folders/1dW2hM5iyUnlO2YzEVJ1HOkwr9z_2fLdV <br>
@@ -88,7 +88,7 @@ Publication: Previously published via hosting, but currently unavailable. <br>
 # Purbengkara
 Purbengkara is a web application, serving as the company profile for a printing business owned by a friend from my university, located in Wiyung, Surabaya, East Java. It provides marketing for their products and pricing information.
 
-Developed by me as a Backend Developer using the Laravel framework.
+Developed by me as a backend developer using the Laravel framework.
 
 Repository Link: https://github.com/FvorY/Purbengkara <br>
 Publication: Previously published via hosting, but currently unavailable. <br>
@@ -101,7 +101,7 @@ Publication: Previously published via hosting, but currently unavailable. <br>
 # Sipena
 Sipena is a web and Android mobile application featuring digital attendance, class schedules, a library, and a canteen.
 
-Developed collaboratively with a team, involving an Android Developers using React Native and a Backend Developers using the Laravel framework, my role in this project was as a Senior Backend Developer, providing advice and solutions for technical implementation.
+Developed collaboratively with a team involving an Android developer using React Native and a backend developer using the Laravel framework, my role in this project was as a senior backend developer, providing advice and solutions for technical implementation.
 
 Repository Link Website: https://github.com/FalahJr/sipena-manpro <br>
 Repository Link Android Mobile: https://github.com/ArsyalRaka02/sipena <br>
@@ -114,7 +114,7 @@ Publication: Previously published via hosting, but currently unavailable. <br>
 # Wedding
 Wedding is a web application with features for digital wedding invitations and content management to manage content.
 
-Developed by me as a Backend Developer using the Laravel framework.
+Developed by me as a backend developer using the Laravel framework.
 
 Repository Link: Not Available <br>
 Publication: Previously published via hosting, but currently unavailable. <br>
@@ -131,7 +131,7 @@ Brighton is a real estate agency that has adopted technological innovations to i
 
 In this project, my role involved developing the application from scratch, with a particular focus on optimizing its performance to ensure smoother operation. This included refactoring and cleaning up the existing codebase to enhance readability and maintainability. By doing so, the code became easier to understand and document, which in turn improved collaboration and long-term maintenance of the application. Additionally, I played a key role in enhancing the application's user interface (UI) to create a more user-friendly and visually appealing experience. This involved implementing design refinements to improve usability and achieve a cleaner aesthetic, ultimately contributing to a better user experience (UX).
 
-Moreover, I updated the technology used in the project, upgrading from Swift 4 to Swift 5. I also played a crucial role in creating UI tests to ensure the application functioned correctly before it was used by end-users. Additionally, I was instrumental in updating the technology from storyboard to XIB, utilizing a coordinator to manage view transitions. Furthermore, I managed the app store updates. By actively participating in these optimization efforts, I aimed to contribute to Brighton’s goal of leveraging technology to modernize its real estate services, providing a better and more seamless experience for both agents and clients.
+Moreover, I updated the technology used in the project, upgrading from Swift 4 to Swift 5. I also played a crucial role in creating UI tests to ensure the application functioned correctly before it was used by end users. Additionally, I was instrumental in updating the technology from storyboard to XIB, utilizing a coordinator to manage view transitions. Furthermore, I managed the app store updates. By actively participating in these optimization efforts, I aimed to contribute to Brighton’s goal of leveraging technology to modernize its real estate services, providing a better and more seamless experience for both agents and clients.
 
 Repository Link: Not Available <br>
 Publication: https://apps.apple.com/id/app/brighton-real-estate/id1203280367 <br>
@@ -161,7 +161,7 @@ Publication: https://apps.apple.com/id/app/bright-staff/id1603758703 <br>
 # PT Reja Aton Energi
 PT Reja Aton Energi is a solar energy product provider located in Sidoarjo, commonly referred to as Atonergi. Atonergi is currently developing a website to support its business operations. The website will integrate a comprehensive range of features, including human resources (HR), finance, inventory management, stocktaking, employee payroll, inventory transfers, and purchasing, all within a single platform.
 
-My role in this project evolved over time. Initially, I was a Frontend Developer, responsible for designing and implementing a modern and user-friendly website interface. Subsequently, I transitioned to a Fullstack Developer role, where I focused on updating features and addressing bugs as reported by Atonergi. Eventually, I assumed the role of Supervisor / Project Lead, acting as a liaison between the client and my team, which consisted of three members.
+My role in this project evolved over time. Initially, I was a frontend developer, responsible for designing and implementing a modern and user-friendly website interface. Subsequently, I transitioned to a Fullstack Developer role, where I focused on updating features and addressing bugs as reported by Atonergi. Eventually, I assumed the role of supervisor/project lead, acting as a liaison between the client and my team, which consisted of three members.
 
 Repository Link: Not Available <br>
 Publication: Not Available <br>
@@ -170,7 +170,7 @@ Publication: Not Available <br>
 </p>
 
 # SiReti
-SiReti (Sistem Rekomendasi Properti / Property Recommendation System) is an application that facilitates everyone in selling and searching for properties. This application can aggregate properties from other websites by scraping using Python, and then recommend them to users who are looking for properties using the Simple Additive Weighting (SAW) method. My hope is that this can make the process easier and save time. There are numerous recommendation parameters that can be used, such as location, material, price, and the number of rooms for each property. This application is the result of my final project at Maarif Hasyim Latif University.
+SiReti (Sistem Rekomendasi Properti / Property Recommendation System) is an application that facilitates everyone in selling and searching for properties. This application can aggregate properties from other websites by scraping using Python and then recommend them to users who are looking for properties using the Simple Additive Weighting (SAW) method. My hope is that this can make the process easier and save time. There are numerous recommendation parameters that can be used, such as location, material, price, and the number of rooms for each property. This application is the result of my final project at Maarif Hasyim Latif University.
 
 The application is built using Python technology for data scraping. The backend utilizes PHP Native with the Simple Additive Weighting (SAW) method. The frontend uses Vue.js, equipped with a Progressive Web App (PWA) to make it easier for users to install or use the application through Android mobile devices.
 
@@ -188,7 +188,7 @@ Publication: Previously published via hosting, but currently unavailable. <br>
 # Dashboard Intilink
 The Intilink Dashboard is an application designed to manage product categories, product groups, user master data, menu master data, and news master data for the public website. It also monitors all bills for electricity, water, telephone, internet, installment payments, insurance, taxes and levies, mobile credit and data packages, as well as transportation and entertainment tickets.
 
-This application is the result of a collaboration between the PT Intilink Multi Biller (IMB) team, working together with Backend Developers using Java Spring, and Frontend Developers using Vue.js. In this project, I serve as a Frontend Developer.
+This application is the result of a collaboration between the PT Intilink Multi Biller (IMB) team, working together with backend developers using Java Spring and frontend developers using Vue.js. In this project, I serve as a frontend developer.
 
 Repository Link: Not Available <br>
 Publication: Not Available <br>
