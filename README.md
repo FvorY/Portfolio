@@ -127,7 +127,7 @@ Publication: Previously published via hosting, but currently unavailable. <br>
 </p>
 
 # Brighton Web
-Brighton is a real estate agency that has adopted technological innovations to improve its operations and services. As part of their strategy, Brighton employs iOS as a key platform to facilitate efficient communication between agents and clients. The accompanying application is designed to enhance the browsing experience for clients, allowing them to explore property listings and connect with agents seamlessly.
+Brighton is a real estate agency that has adopted technological innovations to enhance its operations and services. As part of their strategy, Brighton uses a website as a platform to facilitate efficient communication between agents and clients. The accompanying application is designed to improve the browsing experience for clients, allowing them to explore property listings and connect with agents seamlessly.
 
 This project was my initial project while working at Brighton as a Frontend Developer, before transitioning to an iOS Developer. My roles in this project included enhancing the website's speed, updating its appearance, implementing Progressive Web App (PWA) features, integrating Vue.js into the website, and implementing Facebook Instant Articles.
 
@@ -138,7 +138,7 @@ Publication: https://www.brighton.co.id <br>
 </p>
 
 # Brighton iOS
-Brighton is a real estate agency that has adopted technological innovations to improve its operations and services. As part of their strategy, Brighton employs iOS as a key platform to facilitate efficient communication between agents and clients. The accompanying application is designed to enhance the browsing experience for clients, allowing them to explore property listings and connect with agents seamlessly.
+Brighton is a real estate agency that has adopted technological innovations to enhance its operations and services. As part of their strategy, Brighton utilizes iOS as one of the platforms to facilitate efficient communication between agents and clients. The accompanying application is designed to improve the browsing experience for clients, allowing them to explore property listings and connect with agents seamlessly.
 
 In this project, my role involved developing the application from scratch, with a particular focus on optimizing its performance to ensure smoother operation. This included refactoring and cleaning up the existing codebase to enhance readability and maintainability. By doing so, the code became easier to understand and document, which in turn improved collaboration and long-term maintenance of the application. Additionally, I played a key role in enhancing the application's user interface (UI) to create a more user-friendly and visually appealing experience. This involved implementing design refinements to improve usability and achieve a cleaner aesthetic, ultimately contributing to a better user experience (UX).
 
