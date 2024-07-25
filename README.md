@@ -132,7 +132,7 @@ Brighton is a real estate agency that has adopted technological innovations to i
 This project was my initial project while working at Brighton as a Frontend Developer, before transitioning to an iOS Developer. My roles in this project included enhancing the website's speed, updating its appearance, implementing Progressive Web App (PWA) features, integrating Vue.js into the website, and implementing Facebook Instant Articles.
 
 Repository Link: Not Available <br>
-Publication: https://www.brighton.co.id/ <br>
+Publication: https://www.brighton.co.id <br>
 <p align="center">
 <img src="https://lh3.googleusercontent.com/d/1ATdJ3luoCpZnkS3SWSRGisNNvmv7lWHa" width="230">
 </p>
