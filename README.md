@@ -59,7 +59,7 @@ Developed in collaboration with the Javasolit team, the project involved coopera
 
 Repository Link Website: https://github.com/FvorY/iwak <br>
 Repository Link Android Mobile: https://github.com/izzudin26/iwak <br>
-All Preview: https://drive.google.com/drive/folders/1alhEk4AsWf0_evopyfzo6ecRQDmbwabX <br>
+All Preview: https://drive.google.com/drive/folders/1__Aumk83rZE0G-1x2E_9e2GYRiiAQ7xr <br>
 Publication: The application was previously published via hosting, but it is currently unavailable. <br>
 <p align="center">
 <img src="https://lh3.googleusercontent.com/d/1-nPBoWyBa9CU9M7y1kbGpk0TVPMLQ00Y" width="230">
@@ -75,7 +75,7 @@ MimiShop is a web application for buying and selling children's toys, featuring 
 Developed by me as a Backend Developer using the Laravel framework.
 
 Repository Link: https://github.com/FvorY/Mimishop <br>
-All Preview: https://drive.google.com/drive/folders/1UbY-WvqYosuoymqqYaj5Z8x-4uwf_uzl <br>
+All Preview: https://drive.google.com/drive/folders/1dW2hM5iyUnlO2YzEVJ1HOkwr9z_2fLdV <br>
 Publication: Previously published via hosting, but currently unavailable. <br>
 <p align="center">
 <img src="https://lh3.googleusercontent.com/d/1sBNQ9ul12LAd4FIFc5266pS3k7By_b7y" width="230">
@@ -105,7 +105,7 @@ Developed collaboratively with a team, involving an Android Developers using Rea
 
 Repository Link Website: https://github.com/FalahJr/sipena-manpro <br>
 Repository Link Android Mobile: https://github.com/ArsyalRaka02/sipena <br>
-All Preview: https://drive.google.com/drive/folders/1ueXsX2UF7VcZEV90e8YCFne7SyV8xKPO <br>
+All Preview: https://drive.google.com/drive/folders/162-rE6CJR9vDKRndZb-apCc5ODZ6Q6K9 <br>
 Publication: Previously published via hosting, but currently unavailable. <br>
 <p align="center">
 <img src="https://lh3.googleusercontent.com/d/17MaqdzX1DlwUeCwElN1hZE77TiY490Z9" width="230">
