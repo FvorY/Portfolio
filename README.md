@@ -49,7 +49,7 @@ Publication: The application was previously published via hosting, but it is cur
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://lh3.googleusercontent.com/d/16tpTDC4gSGiVYzI3ER5Pu001ZcFa967G" width="230">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://lh3.googleusercontent.com/d/1-16uKhjCpDlln0X6dSZtld_n4jPqGyHuTF" width="230">
+<img src="https://lh3.googleusercontent.com/d/16uKhjCpDlln0X6dSZtld_n4jPqGyHuTF" width="230">
 </p>
 
 # iWak Store
@@ -175,6 +175,7 @@ SiReti is my final project at Maarif Hasyim Latif University, featuring property
 The technologies used include Progressive Web App (PWA), Vue.JS, and PHP Native for the backend.
 
 Repository Link: Not Available <br>
+All Preview: https://drive.google.com/drive/folders/17vrmc-0kdnUNOVx5WVic3BZ8n7J6fEhv <br>
 Publication: Previously published via hosting, but currently unavailable. <br>
 <p align="center">
 <img src="https://lh3.googleusercontent.com/d/18dY1oEllsNc2Cr2rn0eXrARAd282_goN" width="230">
