@@ -170,9 +170,9 @@ Publication: Not Available <br>
 </p>
 
 # SiReti
-SiReti (Property Recommendation System / Sistem Rekomendasi Properti) is an application that facilitates everyone in selling and searching for properties. This application can collect properties from other websites through scraping using Python, and then recommend them to users who are looking for properties using the Simple Additive Weighting (SAW) method. I hope it will make things easier and save time. Many recommendation parameters can be used, such as location, material, price, and the number of rooms in each property.
+SiReti (Sistem Rekomendasi Properti / Property Recommendation System) is an application that facilitates everyone in selling and searching for properties. This application can aggregate properties from other websites by scraping using Python, and then recommend them to users who are looking for properties using the Simple Additive Weighting (SAW) method. My hope is that this can make the process easier and save time. There are numerous recommendation parameters that can be used, such as location, material, price, and the number of rooms for each property. This application is the result of my final project at Maarif Hasyim Latif University.
 
-This application is built using Python for data scraping. The backend is developed using native PHP with the Simple Additive Weighting (SAW) method, while the frontend is built using Vue.JS. It also features a Progressive Web App (PWA) to facilitate users in installing or using the application on Android mobile devices.
+The application is built using Python technology for data scraping. The backend utilizes PHP Native with the Simple Additive Weighting (SAW) method. The frontend uses Vue.js, equipped with a Progressive Web App (PWA) to make it easier for users to install or use the application through Android mobile devices.
 
 Repository Link: Not Available <br>
 All Preview: https://drive.google.com/drive/folders/17vrmc-0kdnUNOVx5WVic3BZ8n7J6fEhv <br>
@@ -188,7 +188,7 @@ Publication: Previously published via hosting, but currently unavailable. <br>
 # Dashboard Intilink
 The Intilink Dashboard is an application designed to manage product categories, product groups, user master data, menu master data, and news master data for the public website. It also monitors all bills for electricity, water, telephone, internet, installment payments, insurance, taxes and levies, mobile credit and data packages, as well as transportation and entertainment tickets.
 
-This application is the result of a collaboration between the Intilink Multi Biller (IMB) team, working together with Backend Developers using Java Spring, and Frontend Developers using Vue.js. In this project, I serve as a Frontend Developer.
+This application is the result of a collaboration between the PT Intilink Multi Biller (IMB) team, working together with Backend Developers using Java Spring, and Frontend Developers using Vue.js. In this project, I serve as a Frontend Developer.
 
 Repository Link: Not Available <br>
 Publication: Not Available <br>
