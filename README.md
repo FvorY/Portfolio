@@ -170,9 +170,9 @@ Publication: Not Available <br>
 </p>
 
 # SiReti
-SiReti is my final project at Maarif Hasyim Latif University, featuring property search, property input, direct contact with property sellers, and best property recommendations using the Simple Additive Weighting (SAW) method.
+SiReti (Property Recommendation System / Sistem Rekomendasi Properti) is an application that facilitates everyone in selling and searching for properties. This application can collect properties from other websites through scraping using Python, and then recommend them to users who are looking for properties using the Simple Additive Weighting (SAW) method. I hope it will make things easier and save time. Many recommendation parameters can be used, such as location, material, price, and the number of rooms in each property.
 
-The technologies used include Progressive Web App (PWA), Vue.JS, and PHP Native for the backend.
+This application is built using Python for data scraping. The backend is developed using native PHP with the Simple Additive Weighting (SAW) method, while the frontend is built using Vue.JS. It also features a Progressive Web App (PWA) to facilitate users in installing or using the application on Android mobile devices.
 
 Repository Link: Not Available <br>
 All Preview: https://drive.google.com/drive/folders/17vrmc-0kdnUNOVx5WVic3BZ8n7J6fEhv <br>
