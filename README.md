@@ -169,7 +169,7 @@ Publication: https://apps.apple.com/id/app/bright-staff/id1603758703 <br>
 <img src="https://lh3.googleusercontent.com/d/17mxr6_NBxsXQQNPvPbFCH1RpL8U6eaYD" width="230">
 </p>
 
-# PT Reja Aton Energi
+# Atonergi
 PT Reja Aton Energi is a solar energy product provider located in Sidoarjo, commonly referred to as Atonergi. Atonergi is currently developing a website to support its business operations. The website will integrate a comprehensive range of features, including human resources (HR), finance, inventory management, stocktaking, employee payroll, inventory transfers, and purchasing, all within a single platform.
 
 My role in this project evolved over time. Initially, I was a frontend developer, responsible for designing and implementing a modern and user-friendly website interface. Subsequently, I transitioned to a Fullstack Developer role, where I focused on updating features and addressing bugs as reported by Atonergi. Eventually, I assumed the role of supervisor/project lead, acting as a liaison between the client and my team, which consisted of three members.
