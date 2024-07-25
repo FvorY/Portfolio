@@ -184,3 +184,18 @@ Publication: Previously published via hosting, but currently unavailable. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://lh3.googleusercontent.com/d/18MWnmxb0IgQUpSpVr1-gL58WlBJpdUJb" width="230">
 </p>
+
+# Dashboard Intilink
+The Intilink Dashboard is an application designed to manage product categories, product groups, user master data, menu master data, and news master data for the public website. It also monitors all bills for electricity, water, telephone, internet, installment payments, insurance, taxes and levies, mobile credit and data packages, as well as transportation and entertainment tickets.
+
+This application is the result of a collaboration between the Intilink Multi Biller (IMB) team, working together with Backend Developers using Java Spring, and Frontend Developers using Vue.js. In this project, I serve as a Frontend Developer.
+
+Repository Link: Not Available <br>
+Publication: Not Available <br>
+<p align="center">
+<img src="https://lh3.googleusercontent.com/d/19FVbrWkGFbDHwoSW8N23HdNPWboWkN3I" width="230">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://lh3.googleusercontent.com/d/199dVp6_HoMB0W6KgVtyavNm_imHJU1Kq" width="230">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://lh3.googleusercontent.com/d/19M2LD18lrWze2nchxZHVU55YGuiOhNPb" width="230">
+</p>
