@@ -5,7 +5,7 @@ Developed in collaboration with the Javasolit team, the project involved coopera
 
 Repository Link Website: https://gitlab.com/javasolit/yii-csc.git <br>
 Repository Link Android Mobile: https://gitlab.com/javasolit/react-native-csc.git <br>
-All Preview: https://drive.google.com/drive/folders/1PgP-FajJzC1NQbtsms0083bE2Lr5UGoL <br>
+All Preview: https://drive.google.com/drive/folders/1t33wyIm4Fb6fSfBtIw0LWQx4kjZbh8wW <br>
 Publication: The application was previously published via hosting, but it is currently unavailable. <br>
 <p align="center">
 <img src="https://lh3.googleusercontent.com/d/1n0wodLsnai7nR8OwFBi-UFK8OhE6Qdzh" width="230">
