@@ -210,3 +210,21 @@ Publication: Not Available <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://lh3.googleusercontent.com/d/19M2LD18lrWze2nchxZHVU55YGuiOhNPb" width="230">
 </p>
+
+# Website Unwas Gempol
+The Unwas Gempol Website is a public-facing website developed to provide information, services, and digital presence for Unwas Gempol. This website is designed to be responsive, lightweight, and easy to manage, supporting both desktop and mobile users.
+
+In this project, I work as a Part-Time Web Developer, responsible for developing, maintaining, and deploying the website. The application is built using Laravel as the backend framework, Bootstrap for layout and responsiveness, and custom CSS for additional styling.
+In addition to development, I also handle server hosting management and Cloudflare configuration, including domain setup, DNS, SSL, and basic performance/security optimization.
+
+Repository Link: Not Available <br>
+All Preview: https://drive.google.com/drive/folders/1FHhvs8W22u1KJuzNZCt_xlUkd2aWLXjI?usp=drive_link <br>
+Publication: https://unwasgempol.ac.id <br>
+
+<p align="center">
+<img src="https://lh3.googleusercontent.com/d/1FHhvs8W22u1KJuzNZCt_xlUkd2aWLXjI" width="230">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://lh3.googleusercontent.com/d/1FHhvs8W22u1KJuzNZCt_xlUkd2aWLXjI" width="230">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://lh3.googleusercontent.com/d/1FHhvs8W22u1KJuzNZCt_xlUkd2aWLXjI" width="230">
+</p>
