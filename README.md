@@ -222,9 +222,9 @@ All Preview: https://drive.google.com/drive/folders/1FHhvs8W22u1KJuzNZCt_xlUkd2a
 Publication: https://unwasgempol.ac.id <br>
 
 <p align="center">
-<img src="https://drive.google.com/file/d/1JQG7HH2iDvjFi6F7Fv3yJzyeYgnq6f3e" width="230">
+<img src="https://lh3.googleusercontent.com/d/1JQG7HH2iDvjFi6F7Fv3yJzyeYgnq6f3e" width="230">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://drive.google.com/file/d/1pEq351riHaK5VZQonvmGEVydLZ3Gc0pZ" width="230">
+<img src="https://lh3.googleusercontent.com/d/1pEq351riHaK5VZQonvmGEVydLZ3Gc0pZ" width="230">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://drive.google.com/file/d/1oo1Uf1stMuPIRWqnIoR3fDh8W-Jljn61" width="230">
+<img src="https://lh3.googleusercontent.com/d/1oo1Uf1stMuPIRWqnIoR3fDh8W-Jljn61" width="230">
 </p>
